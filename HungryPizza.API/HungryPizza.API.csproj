@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="FluentValidation" Version="9.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HungryPizza.Application\HungryPizza.Application.csproj" />
+    <ProjectReference Include="..\HungryPizza.Data\HungryPizza.Data.csproj" />
+    <ProjectReference Include="..\HungryPizza.Domain\HungryPizza.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>

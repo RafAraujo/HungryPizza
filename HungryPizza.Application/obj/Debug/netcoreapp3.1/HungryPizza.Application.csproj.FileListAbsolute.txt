@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Application.deps.json
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Application.dll
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Application.pdb
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Data.dll
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Domain.dll
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Data.pdb
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\bin\Debug\netcoreapp3.1\HungryPizza.Domain.pdb
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.csproj.CopyComplete
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.dll
+C:\Users\Rafael\source\repos\HungryPizza\HungryPizza.Application\obj\Debug\netcoreapp3.1\HungryPizza.Application.pdb
